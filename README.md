@@ -1,6 +1,6 @@
 # FBI_Gun_Data
 
-# Introduction
+## Introduction
 
 The dataset used in this notebook is the FBI Gun Datasets, which include two dataset, one is a number of background checks from FBI upon any gun purchases, the other one is a Census Data including various census related variables.
 
