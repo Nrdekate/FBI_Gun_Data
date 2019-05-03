@@ -9,3 +9,11 @@ The FBI Gun data inclues a range of different background check types, to name a 
   <li>Dependent Variable: the 'totals' variable in gun data.</li>
   <li>Independent Variables: all the numerical variable in census dataset</li>
 </ul>
+
+### Questions to answer:
+
+1. What census data is most associated with high gun registration?
+
+2. Is there a correlation between ethnic group proportion and gun registration?
+
+3. Is there a seasonal pattern for firearm shopping?
