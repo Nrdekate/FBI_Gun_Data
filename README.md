@@ -2,7 +2,19 @@
 
 ## Introduction
 
-The dataset used in this notebook is the FBI Gun Datasets, which include two dataset, one is a number of background checks from FBI upon any gun purchases, the other one is a Census Data including various census related variables.
+This project explored trends of U.S gun purchases and its relationship with census variables and transformed, combined and visualized gun and census datasets using NumPy, Pandas and Matplotlib
+
+Table of Contents
+
+Introduction
+
+Data Wrangling
+
+Exploratory Data Analysis
+
+Conclusions
+
+FBI Gun and census data are two independent table. Their common variables/value include state of United States and year month, which requires data cleaning at first. I joined these two dataset to see the relationship between gun purchase and census variable.
 
 ### Questions to answer:
 
