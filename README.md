@@ -4,8 +4,6 @@
 
 This project explored trends of U.S gun purchases and its relationship with census variables and transformed, combined and visualized gun and census datasets using NumPy, Pandas and Matplotlib
 <ul>
-  <li>Table of Contents</li>
-
 <li>Introduction</li>
 
 <li>Data Wrangling</li>
